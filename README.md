@@ -9,3 +9,5 @@ I’m learning Git while making a small zine about time travel.
 Some files don’t need to be shared, like:
 - `.DS_Store`: mac stuff that’s automatically created.
 - `target/`: build files we don’t really need in Git.
+
+This repo is a tiny practice zine for learning real Git workflows (branches, PRs, tags).
