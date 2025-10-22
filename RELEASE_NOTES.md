@@ -1,18 +1,16 @@
-# Release Notes — Version 1.0 ✨
+# Release Notes — v1.0
 
 ## Overview
-This version finalizes the Time-Travel Zine project. It includes all layout, content, and polish updates.
+Final version of the Time-Travel Zine project, combining layout, content, and polish updates.
 
 ## Features
-- Added a clear and simple layout.
-- Wrote the zine’s main content sections.
-- Improved readability and formatting.
+- Added layout section (Issue #1)
+- Added contents section (Issue #2)
+- Improved README and intro phrasing (Issue #8)
 
-## Fixes & Updates
-- Resolved merge conflicts in `zine/intro.md`.
-- Polished the README with minor improvements.
+## Fixes
+- Resolved merge conflict in `zine/intro.md` during PR #11.
 
-## Related Pull Requests
-- Layout PR (#1)
-- Content PR (#2)
-- Polish PR (#3)
+## References
+- Tag: v0.1 (initial)
+- Tag: v1.0 (final)
